@@ -2,7 +2,7 @@ team: tigers
 
 manager: Deborah
 
-coach: Grce
+coach: Ruth
 
 members:
 - Linda
