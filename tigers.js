@@ -1,6 +1,6 @@
 team: tigers
 
-manager: Donald
+manager: kenneth
 
 coach: Grce
 
