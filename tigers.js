@@ -1,6 +1,6 @@
 team: tigers
 
-manager: kenneth
+manager: Deborah
 
 coach: Grce
 
